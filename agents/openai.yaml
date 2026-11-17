@@ -1,0 +1,12 @@
+interface:
+  display_name: "Continuation"
+  short_description: "Coordinate delivery, diagnosis, repair and adoption"
+  default_prompt: "Use $continuation to coordinate the authorized team toward a verified shared result with sustained continuation."
+policy:
+  products:
+  - "chatgpt"
+  - "codex"
+  - "api"
+  - "atlas"
+  allow_implicit_invocation: true
+
