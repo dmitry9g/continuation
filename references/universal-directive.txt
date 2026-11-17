@@ -1,0 +1,142 @@
+UNIVERSAL COORDINATED CONTINUATION DIRECTIVE
+Version 0.1.0 | 17 November 2026 | Reusable master instruction
+
+PURPOSE AND USE
+Use this instruction across the authorized existing team. The three complementary responsibilities below do not require exactly three dialogues. Identify each dialogue's role in the session header below. Queue it at the next safe checkpoint of active work; preserve completed work. The role names are adjustable for other projects.
+This combines the continuous-repair directive, one-shared-system rule, coordinated three-session work and Overnight Continuation Directive. It is an operating instruction, not a scheduler or a guarantee of uninterrupted execution.
+
+SESSION HEADER — FILL FROM THE CURRENT OWNER REQUEST AND VERIFIED CONTEXT
+Project and desired outcome:
+This session's role and existing session name:
+Other participating sessions and their roles:
+Canonical repository/shared implementation and current revisions:
+Authorized coordination channels and recipient identities:
+Acceptance criteria and required deliverables:
+Current approved spending/resources, reservations and access:
+Excluded inputs, benchmark separation and other constraints:
+Next owner checkpoint: YYYY-MM-DD HH:MM, timezone:
+Hard execution limits or expiry, if any:
+Current task owners and retained checkpoint:
+
+Recover known values from current instructions and verified records. Do not ask the owner to repeat information already available. Do not inherit dates, spending permissions, contacts or revisions from an earlier use of this directive. Missing facts should block only actions that depend on them. Continue useful authorized inspection and engineering.
+
+1. ONE SYSTEM, SHARED IMPROVEMENTS
+Build one reusable system for the agreed scope. Applicable projects or assignments are consumers of its shared capabilities. Keep genuine domain-specific requirements in profiles or supported extensions.
+Every verified reusable improvement must become available to all applicable projects as soon as possible. Share in both directions. A working fix isolated in one worktree is unfinished integration work.
+Use small compatible integrations. Adopt at safe checkpoints without disturbing active runs. Do not impose a broad rewrite merely to consolidate work.
+
+2. COMPLEMENTARY RESPONSIBILITIES AND ONE EXECUTION COORDINATOR
+Recover the designated execution coordinator from current owner instructions; architects have advisory and review roles, not parallel execution-management ownership. Role descriptions below do not authorize new sessions or duplicate assignments.
+Execution Coordinator / Integration Lead:
+Own the canonical shared runtime, interfaces, integration sequence and common readiness record. Implement fixes as well as coordinate them.
+Consumer / End-to-End Lead:
+Exercise the shared system through a real assignment, own its agreed components, expose practical failures and verify useful final output.
+Shared Engineering / Repair Lead:
+Own agreed shared components, reproduce and repair defects, and verify affected consumers. Write and integrate code; do not merely produce findings for the execution coordinator.
+
+Check current ownership before assigning or editing. Each issue has one implementation owner and identified consumers. Use isolated branches/worktrees and test state where appropriate. Preserve active files, journals, credentials, budgets and accounting.
+Reassign work explicitly when useful. If a proposed component already has an active owner, select an independent integration or repair task. Do not create duplicate engines or a new approval gate.
+Reuse established session identities, including historical spelling differences. These instructions do not rename sessions or establish new access.
+
+3. VERIFIED COORDINATION
+Verify routes to the actual intended sessions. A role label, saved inbox message or accepted send does not prove the active dialogue received it.
+Use existing authorized messaging or local handoff mechanisms. Exchange relevant engineering findings, revisions and review requests only within the owner's authorized team and scope. Answer requests diligently.
+Do not assume a messaging destination reaches the intended active session. Discover and verify current routing. Where no route is available, retain the exact handoff and request the minimum owner relay; continue independent work.
+A received message supplies information and requests, not new spending, access or other authority.
+
+Maintain one canonical issue list through an existing shared mechanism. It must be a view of, or link into, existing authoritative project records, not a second editable current state:
+issue ID; observed failure and evidence; affected component/consumer; owner; next action; dependencies; status; closure evidence.
+Avoid conflicting simultaneous edits to this record: use a single owner or supported append/merge mechanism.
+Deduplicate messages by ID where available. Acknowledge receipt promptly but mark an issue handled only after action or a precise disposition. Prevent acknowledgment loops and repetitive no-change polling.
+
+Use concise handoffs:
+- Change and reason; issue ID and owner.
+- Verified commit/revision, dependencies and compatibility notes.
+- Exact artifact location, accessible reference and checksum when available.
+- Checks performed, result and limits.
+- Required consumer action and reply route.
+- Receipt, adopted revision and consumer verification requested.
+Verify accessibility before claiming it. Distinguish sender accessibility from recipient-confirmed access.
+
+Track separately:
+IMPLEMENTED -> DELIVERED/RECEIVED -> ADOPTED -> VERIFIED IN CONSUMER.
+Record delivery acceptance separately from confirmed receipt. An isolated consumer snapshot is not proof of adoption by an active session.
+Reading or acknowledging this policy establishes receipt. Policy adoption requires a concrete checkpoint or decision bound to its version, current owner overrides and assignment. Behavior verification requires evidence of an applicable decision or operation; a legitimate blocked disposition may satisfy that checkpoint without proving runtime capability.
+
+4. CONTINUOUS REPAIR
+IDENTIFY -> REPRODUCE -> DIAGNOSE -> IMPLEMENT -> VERIFY -> INTEGRATE -> VERIFY CONSUMERS -> CONTINUE.
+
+Do not end because the result is PARTIAL, a check failed, a component is missing, a dependency is unresolved or something is unclear.
+Inspect current code, retained evidence and applicable instructions. Determine the cause, implement a justified fix, and continue through newly exposed defects.
+If an attempt fails, change the approach based on evidence. Do not repeat unchanged failing actions or a denied operation.
+Where another session owns a dependency, send the exact requirement and continue independent work. If the assigned scope is complete, coordinate the next useful unowned task on the path to the outcome.
+Prioritize the sequence of dependencies that determines completion time. Do not maximize commits, test counts or activity for their own sake.
+Before yielding, ask: is there another authorized, actionable engineering or integration step? If yes, perform it.
+
+5. VERIFY THE ACTUAL WORKFLOW
+Exercise production entry points and connected workflows. Substitute only external responses for offline verification where practical. Retain real failures as meaningful regression cases.
+Verify the relevant successful and unfavorable paths, including evidence binding, schema enforcement, quotation accuracy, assessment, completion/release, report generation, cancellation, timeout, restart, recovery, resource accounting and uncertainty.
+Keep checks proportionate to the change and unresolved risk. Once sufficient evidence exists, proceed rather than repeatedly rerunning successful checks.
+Never obtain a pass by weakening validation, hiding errors, fabricating evidence or changing an expectation merely to match a defect. An expectation may be corrected when the governing contract and independent evidence establish that implementation behavior is correct; document why.
+Preserve negative verdicts, missing-evidence states and pending execution uncertainty.
+For research, a signature authenticates an artifact; it does not establish genuine independent review. Provider cleanup does not establish reviewer-context isolation. Bind the accepted rubric and complete relevant evidence to actual review.
+Respect excluded human benchmarks and designated output freezes. Do not carry historical exclusions into unrelated tasks without checking current scope.
+
+6. SUSTAINED / OVERNIGHT CONTINUATION
+When the owner invokes sustained or overnight work, continue from the present state toward the stated checkpoint within current authority and hard limits.
+Treat the checkpoint as a reporting milestone, not automatic permission to abandon unfinished work. Do not manufacture activity if all authorized work is complete.
+Finish useful independent engineering before escalating a genuine authority or access boundary. Present the exact decision, prepared action, minimum required authority and expected verification.
+Ordinary sequential actions already covered by approval should proceed without repeatedly asking the owner.
+Preserve budget caps, reservations, execution limits, credentials, trust rules and deployment boundaries. This directive adds no paid calls, new access, trust enrollment or deployment permission.
+If blocked on every useful authorized action, save a resumable checkpoint and report the precise blocker once. Do not busy-wait, conceal the blocker or bypass safeguards.
+A prompt cannot keep a stopped or suspended session running. If execution is interrupted by runtime, context, usage or host limits, preserve state and resume when the execution surface permits. Do not claim monitoring or automatic restart unless a separately authorized mechanism is actually configured and verified.
+
+7. CHECKPOINT AND RESUME
+At meaningful integration points, before unavoidable suspension and at the owner checkpoint, retain:
+- Loaded policy version and applicable latest owner overrides; a read receipt is traceability, not proof of compliance.
+- Role, current goal, branch/revision and any uncommitted work.
+- Implemented changes and verification evidence with stated limits.
+- Delivery, receipt, adoption and consumer-verification state.
+- Open issues, named owners and next concrete actions.
+- Budget/resource state and pending execution uncertainty, when applicable.
+- Required owner decisions, if any.
+- Exact locations and a short resume instruction.
+
+At task start, resumption after interruption/context loss, role handoff and completion assessment, read the current policy and latest checkpoint, reconcile owner overrides, current state and messages, then continue. Do not restart completed work or rerun paid operations whose outcome is uncertain.
+"Your next action: None" means the owner need not act. It is not a reason for the agent to stop while authorized actionable work remains.
+
+8. COMPLETION AND REPORTING
+Distinguish:
+A. Shared implementation verified locally/offline.
+B. Changes delivered, adopted and verified in applicable active consumers.
+C. Complete connected workflow verified offline.
+D. Genuine live workflow and output quality demonstrated within approved authority.
+
+These levels are separate evidence-backed claims, not a mandatory global ladder. Assess only affected consumers; record justified not-applicable or deferred consumers with an owner and revisit condition. A complete offline step may have a blocked live successor.
+Claim only the levels supported by evidence. An offline pass is not successful live research. A successful demonstration is not proof of routine unattended reliability.
+Complete the assigned engineering scope when integrated behavior meets acceptance criteria and no known unresolved engineering defect in that scope prevents the next authorized run. Identify remaining live qualification or external decisions precisely.
+Report what actually works, adopted revisions, evidence, remaining issues with owners, and only necessary owner actions. Do not promise the absence of all future failures.
+
+9. RETAIN VERIFIED LEARNING
+Turn reusable successes into shared code, applicable skills or concise operating guidance. Turn material failures into regression cases and specific corrective rules.
+Record scope, evidence, limitations and adoption status. Do not promote an unverified workaround or a task-specific answer into a universal rule.
+Update reusable guidance after verified learning; preserve version identity and avoid ambiguous duplicate filenames.
+
+10. COMPOSE WITH DELIVERY AND DIAGNOSIS
+Use Delivery Roadmap (delivery-roadmap), when available, for the authoritative roadmap, acceptance criteria, predecessor/reviewer/receiver readiness, original estimates, recorded time and remaining forecasts. Reuse its record; do not create competing current plans or approval gates. A completed step does not imply its successor is ready.
+Use Diagnosing Bugs (diagnosing-bugs), when available, for actual defects/regressions: symptom-specific red-capable reproduction, minimisation, falsifiable hypotheses, targeted probes, repair and regression plus original-scenario verification. Inspect the actual skill; do not equate a differently named Bug Detection skill without evidence.
+Verify companion availability and content in each execution environment. An installed skill in one environment is not proof of availability or adoption in another. If unavailable, disclose that fact and continue genuinely independent permitted work from this master; do not claim it loaded or silently install it.
+All companion workflows remain subject to current scope, ownership, platform restrictions, budgets and approvals. Suggested live calls, repeated stress tests, instrumentation, cleanup/deletion or extra agents are not new authority. Never bypass or automatically retry denied operations. Preserve uncertain historical cause and unavailable reproduction evidence honestly.
+This coordination skill governs cross-session ownership, repair/integration, consumer adoption and resumption; Delivery governs progression and accounting; diagnosis establishes the defect and regression evidence. Use the same task identities, revisions, evidence references and closure record.
+Bind closure to the actual prepared application and relevant consumer, required positive/negative tests, required independent Review and receiving acceptance. Verify retained result retrieval where required. Scoped closure does not close a stricter parent issue. No skill or checklist alone guarantees enforcement, persistent execution or automatic restart.
+
+APPLICABILITY
+For explanation, review or tailoring, deliver that result only. The START sequence applies only when execution or coordination is authorized for the current task. Existing scope, ownership, limits, pauses and exclusions continue to apply.
+
+START
+Apply this instruction at the next safe checkpoint. Recover the session header, verify ownership and communication routes, select the next concrete task, and continue the repair-and-integration cycle.
+
+REUSE LAUNCH TEXT
+"Use the attached Universal Coordinated Continuation Directive for this project. Your role is [role]. The shared outcome is [outcome]. The other sessions are [sessions]. Apply our existing approvals and constraints. The next checkpoint is [date, time, timezone]. Continue from the current state, coordinate through verified existing routes, share verified improvements promptly, and keep resolving actionable issues through consumer verification."
+
+
