@@ -52,4 +52,4 @@ Download the [repository ZIP](https://github.com/dmitry9g/continuation/archive/r
 
 The package passed structural checks, reference checks, a privacy-name/path scan, and a three-case tabletop review covering blocked work, uncertain paid operations, and delivery versus adoption. These checks are not fresh-session execution or proof of unattended reliability.
 
-No open-source license has been selected for Continuation yet. Public visibility does not itself grant an open-source reuse license. Delivery Roadmap and the externally linked Diagnosing Bugs retain their own licenses.
+Continuation is licensed under the [MIT License](LICENSE), copyright (c) 2026 Dmitry Gordi. Delivery Roadmap and the externally linked Diagnosing Bugs retain their own licenses.
