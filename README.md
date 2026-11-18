@@ -28,9 +28,15 @@ Diagnosing Bugs is an independent upstream project, not an original component of
 
 ## Package identity
 
-**Continuation 0.1.0** is the generic public package. Its identifier is `continuation`. Publishing it does not rename or modify existing installations.
+**Continuation 0.2.0** is the generic public package. Its identifier is `continuation`. Publishing it does not rename or modify existing installations.
 
 The reusable workflow supports authorized engineering teams. Keep project-specific names, routes, current state, and examples in the project's own records rather than in these reusable instructions.
+
+## Repair reserves in 0.2.0
+
+When acceptance is blocked, Continuation can apply an explicitly owner-approved repair reserve maintained by Delivery Roadmap. It checks the same scope, deadline, commitments and balance at start, retry, resume and handoff, so covered repairs can proceed without repeated generic acknowledgements. The reserve includes verification, required review, integration and receiving handoff, not just the code edit.
+
+No skill or template grants authority. Explicit stops, restricted actions, hard exclusions and separately required confirmations still apply. Unknown charges are not free capacity; concurrent work must reserve allowance first, and closed/frozen balances cannot be reused without owner authority. This is guidance, not an enforced accounting system.
 
 ## Package contents and use
 
@@ -50,6 +56,7 @@ Download the [repository ZIP](https://github.com/dmitry9g/continuation/archive/r
 
 ## Validation and license status
 
-The package passed structural checks, reference checks, a privacy-name/path scan, and a three-case tabletop review covering blocked work, uncertain paid operations, and delivery versus adoption. These checks are not fresh-session execution or proof of unattended reliability.
+Version 0.2.0 passed package/frontmatter validation, relative-reference and metadata checks, version consistency and a privacy-name/path scan. An independent 11-case tabletop review covered an approved repair, insufficient allowance, expiry, concurrent commitments, forecast-file changes, hard exclusions, denied actions, explicit pause, changed acceptance, frozen balance and uncertain paid outcomes. These are textual and decision checks, not fresh-session execution, enforced concurrency/accounting, or proof of unattended reliability.
 
 Continuation is licensed under the [MIT License](LICENSE), copyright (c) 2026 Dmitry Gordi. Delivery Roadmap and the externally linked Diagnosing Bugs retain their own licenses.
+
