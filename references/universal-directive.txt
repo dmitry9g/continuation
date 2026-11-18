@@ -1,5 +1,5 @@
 UNIVERSAL COORDINATED CONTINUATION DIRECTIVE
-Version 0.1.0 | 17 November 2026 | Reusable master instruction
+Version 0.2.0 | 18 November 2026 | Reusable master instruction
 
 PURPOSE AND USE
 Use this instruction across the authorized existing team. The three complementary responsibilities below do not require exactly three dialogues. Identify each dialogue's role in the session header below. Queue it at the next safe checkpoint of active work; preserve completed work. The role names are adjustable for other projects.
@@ -73,6 +73,13 @@ Where another session owns a dependency, send the exact requirement and continue
 Prioritize the sequence of dependencies that determines completion time. Do not maximize commits, test counts or activity for their own sake.
 Before yielding, ask: is there another authorized, actionable engineering or integration step? If yes, perform it.
 
+OWNER-APPROVED REPAIR RESERVE
+When acceptance is blocked, use Delivery Roadmap's optional approved repair reserve, if present, for covered diagnosis, repair, verification, required Review, integration and receiving handoff. The skill or a proposed clause is not approval. Do not add a new approval gate for existing authorized work.
+Delivery owns the authoritative ledger: owner approval reference, coordinator, ceiling and units/accounting method, deadline, covered acceptance criteria/activities, hard exclusions, actual charges, open commitments and available balance. Reuse that ledger rather than creating a parallel budget. Expected affected files are a forecast unless explicitly made a hard boundary.
+At start, retry, resume and handoff, reconcile current authority, ledger revision and pending outcomes. Reserve the whole repair cycle through the existing coordinator or supported atomic mechanism before concurrent dispatch. Available balance is ceiling minus actual charges minus open commitments in compatible units. For resumed work, reuse its valid reconciled commitment and reserve only an uncovered increment, not a second full allocation. On verified settlement, replace the commitment with actual charges, avoiding double counting; release unused allowance only after confirmed settlement/cancellation. Unknown or pending costs are not zero. If capacity is uncertain, block reserve-dependent spending and continue independent permitted work.
+Proceed with covered sequential actions without another generic acknowledgement. Stop the affected repair for insufficient whole-cycle allowance, deadline/expiry, hard exclusions, changed goals or acceptance criteria. Preserve a resumable checkpoint and request only the missing decision. Never reset caps on retries, borrow another task's allowance, or reopen closed/frozen balances without owner authority.
+Explicit pauses/stops, restricted or denied operations, platform safeguards and separately required confirmations always take precedence. A reserve does not itself authorize extra workers, recipient messages, paid calls, publication or other external actions. Never automatically retry a denied operation. If Delivery is unavailable, disclose the gap and recover existing authority/accounting from verified project records; do not assume a reserve exists or claim the companion was loaded.
+
 5. VERIFY THE ACTUAL WORKFLOW
 Exercise production entry points and connected workflows. Substitute only external responses for offline verification where practical. Retain real failures as meaningful regression cases.
 Verify the relevant successful and unfavorable paths, including evidence binding, schema enforcement, quotation accuracy, assessment, completion/release, report generation, cancellation, timeout, restart, recovery, resource accounting and uncertainty.
@@ -138,5 +145,6 @@ Apply this instruction at the next safe checkpoint. Recover the session header, 
 
 REUSE LAUNCH TEXT
 "Use the attached Universal Coordinated Continuation Directive for this project. Your role is [role]. The shared outcome is [outcome]. The other sessions are [sessions]. Apply our existing approvals and constraints. The next checkpoint is [date, time, timezone]. Continue from the current state, coordinate through verified existing routes, share verified improvements promptly, and keep resolving actionable issues through consumer verification."
+
 
 
