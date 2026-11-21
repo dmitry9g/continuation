@@ -54,6 +54,8 @@ This is operating guidance, not enforcement software or a scheduler. It cannot k
 
 Download the [repository ZIP](https://github.com/dmitry9g/continuation/archive/refs/heads/main.zip), extract it, and copy its contents into `~/.codex/skills/continuation/`. Keep `SKILL.md`, `references/universal-directive.txt`, and `agents/openai.yaml` together. Start a new conversation and verify that the skill is discovered and can be loaded before relying on it.
 
+If this skill helped you finish a task, give this repo a ⭐ on GitHub. It helps me see what’s worth improving.
+
 ## Validation and license status
 
 Version 0.2.0 passed package/frontmatter validation, relative-reference and metadata checks, version consistency and a privacy-name/path scan. An independent 11-case tabletop review covered an approved repair, insufficient allowance, expiry, concurrent commitments, forecast-file changes, hard exclusions, denied actions, explicit pause, changed acceptance, frozen balance and uncertain paid outcomes. These are textual and decision checks, not fresh-session execution, enforced concurrency/accounting, or proof of unattended reliability.
